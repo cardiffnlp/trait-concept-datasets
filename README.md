@@ -14,7 +14,7 @@ The 5 trait types that are covered in the datasets are: **colours**, **component
     publisher = "Association for Computational Linguistics",
 }
 ```
-There are datasets for each trait type for both the McRae and Norms datasets and both single-labelled and multi-labelled.
+There are datasets for each trait type for both the McRae and Norms datasets and both single-labelled and multi-labelled for English. There is only a single-labelled dataset from McRae for Spanish.
 
 [1] Ken McRae, George S. Cree, Mark S. Seidenberg, and Chris McNorgan (2005) *Semantic feature production norms for a large set of living and nonliving things.* Behavior Research Methods, 37:547–559
 
