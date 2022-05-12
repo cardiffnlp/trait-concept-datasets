@@ -1,0 +1,95 @@
+feature type,Concept,Feature,pf,attribute type
+visual perceptual,aeroplane,made_of_metal,17,material
+visual perceptual,ambulance,made_of_metal,9,material
+visual perceptual,anchor,made_of_metal,27,material
+visual perceptual,arm,made_of_bones,20,material
+visual perceptual,armour,made_of_metal,28,material
+visual perceptual,banjo,made_of_wood,24,material
+encyclopaedic,beer,made_of_water,5,material
+visual perceptual,birch,made_of_wood,14,material
+visual perceptual,bolts,made_of_metal,27,material
+visual perceptual,bomb,made_of_metal,7,material
+visual perceptual,book,made_of_paper,21,material
+encyclopaedic,bread,made_of_water,8,material
+visual perceptual,brochure,made_of_paper,28,material
+visual perceptual,buckle,made_of_metal,28,material
+visual perceptual,bullet,made_of_metal,28,material
+visual perceptual,bus,made_of_metal,23,material
+visual perceptual,cage,made_of_metal,28,material
+visual perceptual,cannon,made_of_metal,28,material
+visual perceptual,car,made_of_metal,24,material
+visual perceptual,cart,made_of_wood,29,material
+visual perceptual,castenets,made_of_wood,20,material
+visual perceptual,catalogue,made_of_paper,26,material
+encyclopaedic,celery,made_of_water,7,material
+visual perceptual,cello,made_of_wood,27,material
+visual perceptual,certificate,made_of_paper,30,material
+visual perceptual,chain,made_of_metal,30,material
+visual perceptual,cigar,made_of_paper,7,material
+visual perceptual,clamp,made_of_metal,21,material
+visual perceptual,cork,made_of_wood,8,material
+visual perceptual,crowbar,made_of_metal,27,material
+encyclopaedic,cucumber,made_of_water,19,material
+visual perceptual,dagger,made_of_metal,30,material
+visual perceptual,dictionary,made_of_paper,18,material
+visual perceptual,dresser,made_of_wood,24,material
+visual perceptual,ear,made_of_bones,8,material
+visual perceptual,elm,made_of_wood,7,material
+visual perceptual,envelope,made_of_paper,28,material
+visual perceptual,ferry,made_of_metal,17,material
+visual perceptual,finger,made_of_bones,16,material
+visual perceptual,fir,made_of_wood,9,material
+visual perceptual,foot,made_of_bones,20,material
+visual perceptual,gong,made_of_metal,24,material
+visual perceptual,grater,made_of_metal,28,material
+visual perceptual,grenade,made_of_metal,14,material
+visual perceptual,gun,made_of_metal,23,material
+visual perceptual,helicopter,made_of_metal,21,material
+visual perceptual,herring,made_of_bones,5,material
+visual perceptual,jeep,made_of_metal,18,material
+encyclopaedic,jelly,made_of_water,14,material
+visual perceptual,key,made_of_metal,27,material
+visual perceptual,leg,made_of_bones,19,material
+encyclopaedic,lemonade,made_of_water,13,material
+encyclopaedic,lettuce,made_of_water,6,material
+visual perceptual,limousine,made_of_metal,17,material
+visual perceptual,lorry,made_of_metal,13,material
+encyclopaedic,milk,made_of_water,5,material
+visual perceptual,nail,made_of_metal,28,material
+visual perceptual,needle,made_of_metal,28,material
+visual perceptual,newspaper,made_of_paper,25,material
+visual perceptual,nose,made_of_bones,6,material
+visual perceptual,oak,made_of_wood,19,material
+visual perceptual,pamphlet,made_of_paper,26,material
+visual perceptual,pencil,made_of_wood,26,material
+visual perceptual,pin,made_of_metal,24,material
+visual perceptual,pine,made_of_wood,10,material
+visual perceptual,porsche,made_of_metal,17,material
+visual perceptual,revolver,made_of_metal,25,material
+visual perceptual,rocket,made_of_metal,19,material
+visual perceptual,sandpaper,made_of_paper,8,material
+visual perceptual,sardine,made_of_bones,5,material
+visual perceptual,scalpel,made_of_metal,29,material
+visual perceptual,screw,made_of_metal,28,material
+functional,soup,made_of_water,7,material
+visual perceptual,spanner,made_of_metal,30,material
+visual perceptual,stick,made_of_wood,22,material
+visual perceptual,stove,made_of_metal,18,material
+visual perceptual,submarine,made_of_metal,22,material
+visual perceptual,sword,made_of_metal,28,material
+visual perceptual,sycamore,made_of_wood,8,material
+visual perceptual,tank,made_of_metal,22,material
+visual perceptual,taxi,made_of_metal,13,material
+functional,tea,made_of_water,13,material
+visual perceptual,textbook,made_of_paper,21,material
+visual perceptual,thumb,made_of_bones,16,material
+visual perceptual,toe,made_of_bones,24,material
+visual perceptual,tractor,made_of_metal,14,material
+visual perceptual,train,made_of_metal,20,material
+visual perceptual,trolley,made_of_metal,28,material
+visual perceptual,truck,made_of_metal,14,material
+visual perceptual,tweezers,made_of_metal,27,material
+visual perceptual,van,made_of_metal,17,material
+visual perceptual,violin,made_of_wood,24,material
+encyclopaedic,watermelon,made_of_water,9,material
+visual perceptual,willow,made_of_wood,11,material

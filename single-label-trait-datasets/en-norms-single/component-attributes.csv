@@ -1,0 +1,36 @@
+feature type,Concept,Feature,pf,attribute type
+visual perceptual,basket,handle,22,component
+visual perceptual,bell,handle,10,component
+visual perceptual,bellows,handle,16,component
+encyclopaedic,biscuit,sugar,18,component
+visual perceptual,brush,handle,22,component
+encyclopaedic,cake,sugar,17,component
+encyclopaedic,chocolate,sugar,15,component
+visual perceptual,club,handle,9,component
+encyclopaedic,coffee,sugar,5,component
+visual perceptual,cymbal,handle,7,component
+visual perceptual,doorknob,handle,5,component
+visual perceptual,drill,handle,11,component
+visual perceptual,gate,handle,6,component
+visual perceptual,gun,handle,5,component
+encyclopaedic,jam,sugar,16,component
+encyclopaedic,jelly,sugar,8,component
+visual perceptual,jug,handle,21,component
+encyclopaedic,ketchup,sugar,12,component
+visual perceptual,ladle,handle,22,component
+encyclopaedic,lemonade,sugar,23,component
+visual perceptual,mug,handle,26,component
+encyclopaedic,raisin,sugar,5,component
+visual perceptual,rake,handle,21,component
+visual perceptual,revolver,handle,7,component
+visual perceptual,rifle,handle,8,component
+visual perceptual,shield,handle,9,component
+visual perceptual,shotgun,handle,6,component
+visual perceptual,spanner,handle,10,component
+visual perceptual,spatula,handle,17,component
+visual perceptual,spoon,handle,24,component
+encyclopaedic,sultana,sugar,6,component
+visual perceptual,tongs,handle,10,component
+visual perceptual,umbrella,handle,20,component
+visual perceptual,whip,handle,14,component
+visual perceptual,whisk,handle,17,component
